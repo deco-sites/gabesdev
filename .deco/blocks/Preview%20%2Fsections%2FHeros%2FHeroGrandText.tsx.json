@@ -1,0 +1,36 @@
+{
+  "__resolveType": "site/sections/Heros/HeroGrandText.tsx",
+  "description": {
+    "alternatedSuffixes": [
+      "Full Stack",
+      "Especialista em front-end"
+    ],
+    "staticPrefix": "Desenvolvedor"
+  },
+  "ctas": [
+    {
+      "variant": "primary",
+      "link": {
+        "type": "internal",
+        "target": "_self",
+        "href": "test"
+      },
+      "label": "Vamos trabalhar juntos"
+    },
+    {
+      "variant": "phone",
+      "link": {
+        "type": "internal",
+        "target": "_self",
+        "href": "test"
+      },
+      "label": "15991305957"
+    }
+  ],
+  "image": {
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11002/7ffcbbf0-b874-4634-bbc3-4f455031bdf9",
+    "width": 347,
+    "height": 380.66
+  },
+  "title": "Olá, eu sou o Gabriel Dissotti"
+}

@@ -20,6 +20,14 @@
     -moz-appearance: textfield;
     appearance: textfield;
   }
+
+  .font-roboto-slab {
+    font-family: "Roboto Slab", sans-serif;
+  }
+
+  .font-lato {
+    font-family: "Lato", sans-serif;
+  }
 }
 
 @layer components {
@@ -28,6 +36,15 @@
   .no-scroll {
     overflow: hidden;
     height: 100vh;
+  }
+
+  .btn {
+    font-family: "Lato", sans-serif;
+    @apply py-4 px-10 w-full md:w-max font-bold text-base md:text-lg text-center cursor-pointer;
+  }
+
+  .btn.btn-primary,.btn.btn-accent,.btn.btn-neutral {
+    color: white;
   }
 }
 
