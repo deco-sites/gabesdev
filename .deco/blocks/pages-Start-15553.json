@@ -1,1 +1,10 @@
-{"name":"Home","path":"/","sections":[{"__resolveType":"site/sections/ItWorks.tsx","name":"It Works!"},{"__resolveType":"Footer"}],"__resolveType":"website/pages/Page.tsx"}
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "Preview /sections/Heros/HeroGrandText.tsx"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}
